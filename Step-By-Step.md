@@ -1,10 +1,10 @@
 # Step By Step
-## Proyecto 1.1
-### iOS
+## Proyecto 2
+### Android
 
-This is my documentation about the step by step of developing, again but with improvements, my project 1, version 1.1.
+This is my documentation about the step by step of developing my project 2, version 1.
 
-The app is developed for iOS (for now) with Swift.
+The app is developed for Android with Kotlin.
 
 It is an app of given quotes from famous people, according the humo of the user.
 
@@ -13,17 +13,17 @@ It is an app of given quotes from famous people, according the humo of the user.
 Creating this document
 
 #### 2
-Creating new Xcode project
+Creating new Android Studio project - pending
 
 #### 3
-Preparing the project:
+Preparing the project: - pending
 
 1. Deleting the View Controller from Main.storyboard
 2. Re-naming the ViewController.swift to launchViewController.swift
 3. Creating the extensions folder
 
 #### 4
-Adding the Navigation Controller
+Adding the Navigation Controller - pending
 
 1. Adding a new Navigation Controller at Main.storyboard
 2. Deleting the Root View Controller added with the new Navigation Controller
@@ -32,7 +32,7 @@ Adding the Navigation Controller
 5. Make a segue between the Navigation Controller and message View Controller as root view controller
 
 #### 5
-Adding launch view elements
+Adding launch view elements - pending
 
 1. Adding the logo image
 2. Adding the entrance label
@@ -49,7 +49,7 @@ Adding the logo Image
 2. Adding the test image to Resources folder
 
 #### 6
-Adding the Colors View Controller
+Adding the Colors View Controller - pending
 
 1. Adding a new view controller
 2. Change the name of view controller
@@ -62,7 +62,7 @@ Adding the Colors View Controller
 9. Adding an override to go to the next view, carring the button color as background color
 
 #### 7
-Adding the Words View Controller
+Adding the Words View Controller - pending
 
 1. Adding a new file named wordsDetailViewController
 2. Implementing the variable which receive the chosen color from preview view
@@ -77,7 +77,7 @@ Adding the Words View Controller
 11. Adding the override to segue to the next view and bring the background color
 
 #### 8
-Adding the Message View Controller
+Adding the Message View Controller - pending
 
 1. Adding a new view controller
 2. Adding a stack, label, message view and button
