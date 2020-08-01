@@ -1,8 +1,8 @@
 # README
-## Proyecto 1
-### iOS
+## Proyecto 2
+### Android
 
-Este és el proyecto 1 de desarrollo de una app para iOS, desarrollado con Swift.
+Este és el proyecto 2 de desarrollo de una app para Android, desarrollado con Kotlin.
 
 ### Primera Pantalla
 
