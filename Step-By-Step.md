@@ -13,7 +13,7 @@ It is an app of given quotes from famous people, according the humo of the user.
 Creating this document
 
 #### 2
-Creating new Android Studio project - pending
+Creating new Android Studio project
 
 #### 3
 Preparing the project: - pending
